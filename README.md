@@ -37,7 +37,7 @@ A production-ready, RESTful backend for a journaling application. Built with **S
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/lieutenant-Rohit/JournalApp.git](https://github.com/lieutenant-Rohit/JournalApp.git)
+git clone https://github.com/lieutenant-Rohit/JournalApp.git
 cd JournalApp
 
 2. Configure MongoDB:
