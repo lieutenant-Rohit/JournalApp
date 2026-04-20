@@ -58,4 +58,3 @@ The server will start on http://localhost:8080.
 🚧 Future Roadmap
 JWT Implementation: Migrate from Basic Authentication to stateless JSON Web Tokens for frontend compatibility.
 
-Pagination & Sorting: Implement Spring Data Pageables to limit payload sizes when users fetch years of journal history.
